@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -13,7 +12,7 @@ const Testimonials = () => {
       position: "Senior Architect",
       company: "Metropolitan Design Group",
       rating: 5,
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b587?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     },
     {
       quote: "The compliance alerts caught issues we would have missed entirely. Our approval time has been cut in half.",
