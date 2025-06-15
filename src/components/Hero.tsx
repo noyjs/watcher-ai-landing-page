@@ -50,8 +50,8 @@ const Hero = () => {
             <div className="relative animate-scale-in delay-800">
               <div className="aspect-video bg-white rounded-2xl shadow-2xl border border-gray-200 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1497604401993-f2e922e5cb0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
-                  alt="BIM Architecture Building Model"
+                  src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+                  alt="Revit BIM Model Wireframe Design"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
