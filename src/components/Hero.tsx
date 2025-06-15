@@ -50,8 +50,8 @@ const Hero = () => {
             <div className="relative animate-scale-in delay-800">
               <div className="aspect-video bg-white rounded-2xl shadow-2xl border border-gray-200 overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
-                  alt="Modern Architecture Design"
+                  src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+                  alt="Watcher AI Interface Preview"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>

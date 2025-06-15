@@ -42,8 +42,8 @@ const About = () => {
                 </div>
                 <div className="md:w-1/3 mt-8 md:mt-0">
                   <img 
-                    src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
-                    alt="Modern building architecture"
+                    src="https://images.unsplash.com/photo-1721322800607-8c38375eef04?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                    alt="Team collaboration"
                     className="rounded-lg shadow-lg w-full"
                   />
                 </div>
